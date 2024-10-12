@@ -15,9 +15,9 @@
         "@dpdfe/wcharts-vue": "^1.0.23",
         "@vue/composition-api": "1.7.0",
         "ant-design-vue": "1.7.8",
-        "axios": "0.24.0",
+        "axios": "0.28.0",
         "core-js": "^3.6.5",
-        "crypto-js": "4.1.1",
+        "crypto-js": "4.2.0",
         "driver.js": "0.9.8",
         "echarts": "4.1.0",
         "intro.js": "6.0.0",
@@ -42,7 +42,7 @@
         "less-loader": "5.0.0",
         "prettier": "2.6.2",
         "speed-measure-webpack-plugin": "1.5.0",
-        "vue-template-compiler": "2.6.11",
+        "vue-template-compiler": "2.7.16",
         "webpack-bundle-analyzer": "4.5.0"
     },
     "browserslist": [
